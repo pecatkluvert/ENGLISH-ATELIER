@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "basePath": "audio/",
+  "tracks": [
+    {
+      "file": "AV-00.mp3",
+      "title": "AV-00"
+    },
+    {
+      "file": "AV-001-2.mp3",
+      "title": "AV-001-2"
+    },
+    {
+      "file": "AV-011-2.mp3",
+      "title": "AV-011-2"
+    },
+    {
+      "file": "AV-018-2.mp3",
+      "title": "AV-018-2"
+    },
+    {
+      "file": "AV-023-3.mp3",
+      "title": "AV-023-3"
+    },
+    {
+      "file": "AV-031-3.mp3",
+      "title": "AV-031-3"
+    },
+    {
+      "file": "AV-034-4.mp3",
+      "title": "AV-034-4"
+    },
+    {
+      "file": "AV-037-2.mp3",
+      "title": "AV-037-2"
+    },
+    {
+      "file": "AV-042-1.mp3",
+      "title": "AV-042-1"
+    },
+    {
+      "file": "AV-043-3.mp3",
+      "title": "AV-043-3"
+    },
+    {
+      "file": "AV-052-1.mp3",
+      "title": "AV-052-1"
+    },
+    {
+      "file": "AV-056-2.mp3",
+      "title": "AV-056-2"
+    },
+    {
+      "file": "AV-069-1.mp3",
+      "title": "AV-069-1"
+    },
+    {
+      "file": "AV-070-1.mp3",
+      "title": "AV-070-1"
+    },
+    {
+      "file": "AV-081-1.mp3",
+      "title": "AV-081-1"
+    },
+    {
+      "file": "AV-091-2.mp3",
+      "title": "AV-091-2"
+    },
+    {
+      "file": "AV-104-1.mp3",
+      "title": "AV-104-1"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "english-atelier",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Build-free English learning app for GitHub Pages",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "test": "node --test tests/core.test.mjs",
+    "index": "node tools/index.mjs"
+  }
+}

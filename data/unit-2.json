@@ -1,0 +1,1649 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-2",
+  "number": 2,
+  "title": "Adjectives II",
+  "shortTitle": "Adjectives II",
+  "description": "Build natural adjective–noun combinations and distinguish near-synonyms.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Use natural adjective–noun combinations",
+    "Distinguish shades of meaning",
+    "Replace vague adjectives with precise ones"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 2,
+    "pages": [
+      6,
+      7
+    ],
+    "pdf": "sources/unit-2.pdf",
+    "note": "Lesson vocabulary, examples and written tasks follow the supplied pages. Definitions are condensed for readability; spacing and obvious scan errors are corrected. Hints, explanations and model answers are study aids, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Adjectives in collocations",
+      "body": "The document pairs adjectives with the nouns they naturally describe. Its position key is: * before a noun, ** after a noun, generally with be, and *** before or after a noun. Study the book’s collocations and examples below.",
+      "terms": [
+        "avid",
+        "blatant",
+        "breathtaking",
+        "gripping",
+        "harrowing",
+        "lax",
+        "lenient",
+        "meteoric",
+        "misleading",
+        "piercing",
+        "prolific",
+        "sporadic",
+        "staunch",
+        "sweeping",
+        "watertight"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Similar meanings: boring, bad and perfect",
+      "body": "The document groups near-synonyms by meaning. The nouns and contexts still matter: mundane often describes a job; impeccable often describes appearance, reputation or taste.",
+      "terms": [
+        "dreary",
+        "dull",
+        "mundane",
+        "tedious",
+        "atrocious",
+        "dreadful",
+        "lousy",
+        "flawless",
+        "impeccable",
+        "unblemished"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Similar meanings: difficult, untidy, clever and ordinary",
+      "body": "Use these meaning groups when classifying adjectives and improving the film review. The examples are the combinations shown in the lesson.",
+      "terms": [
+        "arduous",
+        "gruelling",
+        "strenuous",
+        "bedraggled",
+        "dishevelled",
+        "scruffy",
+        "astute",
+        "crafty",
+        "shrewd",
+        "wily",
+        "conventional",
+        "mainstream",
+        "middle-of-the-road",
+        "run-of-the-mill"
+      ],
+      "examples": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "avid",
+      "definition": "Extremely enthusiastic about an interest.",
+      "example": "an avid reader/football fan/stamp collector",
+      "note": "Common: reader, fan, collector.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "blatant",
+      "definition": "Very obvious and without shame, usually something bad.",
+      "example": "a blatant lie/foul",
+      "note": "Common: lie, foul, disregard.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "breathtaking",
+      "definition": "Remarkably beautiful or impressive.",
+      "example": "breathtaking view/scenery / For a child of his age, his knowledge of the subject was breathtaking.",
+      "note": "Common: view, scenery.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "gripping",
+      "definition": "So exciting that it holds your attention.",
+      "example": "It was a gripping tale of murder and intrigue.",
+      "note": "Common: film, tale, novel.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "harrowing",
+      "definition": "Deeply distressing or shocking.",
+      "example": "a harrowing film/tale",
+      "note": "Describes an experience or account.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "lax",
+      "definition": "Not sufficiently strict or careful.",
+      "example": "lax security",
+      "note": "Common: security, discipline, enforcement.",
+      "sourcePage": 7,
+      "exampleSource": "Supplied document: Exercise 1"
+    },
+    {
+      "term": "lenient",
+      "definition": "Giving a less severe punishment than expected.",
+      "example": "The judge was lenient and let him off with a fine.",
+      "note": "Often describes judges, parents or teachers.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "meteoric",
+      "definition": "Extremely rapid and striking.",
+      "example": "He was unprepared for his meteoric rise to fame.",
+      "note": "Common: rise to fame.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "misleading",
+      "definition": "Giving an incorrect impression.",
+      "example": "misleading information/advertisements/comments",
+      "note": "Common: information, comments, advertising.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "piercing",
+      "definition": "Very high and loud, especially a sound.",
+      "example": "She let out a piercing scream of terror.",
+      "note": "Common: scream, whistle.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "prolific",
+      "definition": "Producing a large amount of creative work.",
+      "example": "a prolific novelist",
+      "note": "Common: writer, composer, artist.",
+      "sourcePage": 7,
+      "exampleSource": "Supplied document: Exercise 1"
+    },
+    {
+      "term": "sporadic",
+      "definition": "Occurring at irregular intervals.",
+      "example": "sporadic fighting/shots/violence/outbreaks",
+      "note": "Common: fighting, outbreaks, showers.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "staunch",
+      "definition": "Firm and loyal in support.",
+      "example": "staunch supporter/friend/ally/Democrat",
+      "note": "Common: supporter, friend, ally.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "sweeping",
+      "definition": "Broad and general, or affecting many things.",
+      "example": "'Women are bad drivers' is a sweeping generalisation that is all too common these days. / He proposed sweeping changes to the country's electoral system.",
+      "note": "Common: generalisation, reforms, changes.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "watertight",
+      "definition": "So sound that it is difficult to challenge.",
+      "example": "watertight arguments/court case/alibi",
+      "note": "Common: alibi, case, argument.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "dreary",
+      "definition": "Dull and depressing.",
+      "example": "Her apartment was dreary and depressing.",
+      "note": "Boring group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "dull",
+      "definition": "Lacking interest, excitement or brightness.",
+      "example": "dull afternoon/people/colour/weather",
+      "note": "Boring group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "mundane",
+      "definition": "Ordinary and lacking excitement.",
+      "example": "He had a mundane job in a local bank.",
+      "note": "Boring group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "tedious",
+      "definition": "Long, tiresome and boring.",
+      "example": "tedious journey/task/job",
+      "note": "Boring group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "atrocious",
+      "definition": "Extremely bad.",
+      "example": "atrocious film/mess/game",
+      "note": "Bad group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "dreadful",
+      "definition": "Very bad or unpleasant.",
+      "example": "dreadful weather/mistakes/acting",
+      "note": "Bad group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "lousy",
+      "definition": "Very bad, in informal language.",
+      "example": "lousy day/hotel/teacher/singer",
+      "note": "Bad group; informal.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "flawless",
+      "definition": "Without any faults.",
+      "example": "flawless complexion/performance",
+      "note": "Perfect group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "impeccable",
+      "definition": "Of a very high standard, without faults.",
+      "example": "impeccable appearance/reputation/taste in clothes",
+      "note": "Perfect group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "unblemished",
+      "definition": "Not damaged or spoiled by faults or wrongdoing.",
+      "example": "unblemished record/reputation/character",
+      "note": "Perfect group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "arduous",
+      "definition": "Difficult and requiring sustained effort.",
+      "example": "arduous journey/task",
+      "note": "Difficult group; normally written arduous.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "gruelling",
+      "definition": "Exhausting and demanding over a long period.",
+      "example": "gruelling schedule/day/race",
+      "note": "Difficult group; US spelling: grueling.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "strenuous",
+      "definition": "Requiring great physical effort or energetic opposition.",
+      "example": "strenuous activity/trip/effort/objection",
+      "note": "Difficult group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "bedraggled",
+      "definition": "Wet, dirty and untidy.",
+      "example": "The two bedraggled children trudged into the house.",
+      "note": "Untidy group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "dishevelled",
+      "definition": "Untidy, especially hair or appearance.",
+      "example": "dishevelled clothes/hair/appearance/man",
+      "note": "Untidy group; US: disheveled.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "scruffy",
+      "definition": "Untidy or shabby.",
+      "example": "scruffy pair of jeans/flat/boy",
+      "note": "Untidy group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "astute",
+      "definition": "Good at understanding situations and judging them.",
+      "example": "astute politician/decision",
+      "note": "Clever group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "crafty",
+      "definition": "Clever in a deceptive or cunning way.",
+      "example": "crafty man/plan/look",
+      "note": "Clever group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "shrewd",
+      "definition": "Showing good practical judgement.",
+      "example": "shrewd businessman/investment/eyes",
+      "note": "Clever group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "wily",
+      "definition": "Experienced and clever at gaining an advantage.",
+      "example": "wily businessman/manoeuvring",
+      "note": "Clever group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "conventional",
+      "definition": "Following accepted or ordinary ideas.",
+      "example": "conventional people/opinions/ideas",
+      "note": "Ordinary group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "mainstream",
+      "definition": "Accepted by most people; not extreme.",
+      "example": "mainstream beliefs/ideas/organisations/politics",
+      "note": "Ordinary group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "middle-of-the-road",
+      "definition": "Moderate and avoiding extremes.",
+      "example": "middle-of-the-road ideas/beliefs/music",
+      "note": "Ordinary group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "run-of-the-mill",
+      "definition": "Ordinary and unremarkable.",
+      "example": "run-of-the-mill computer/supermarket",
+      "note": "Ordinary group.",
+      "sourcePage": 6,
+      "exampleSource": "Supplied document: lesson page"
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "book-1",
+      "title": "Exercise 1 · Match the collocations",
+      "instruction": "Match each adjective with a noun from the document. Choose from the original noun list.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "a breathtaking ___",
+          "answer": "view",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a breathtaking view”.",
+          "referenceTerms": [
+            "breathtaking"
+          ],
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a blatant ___",
+          "answer": "lie",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a blatant lie”.",
+          "referenceTerms": [
+            "blatant"
+          ],
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a prolific ___",
+          "answer": "novelist",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a prolific novelist”.",
+          "referenceTerms": [
+            "prolific"
+          ],
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a gripping ___",
+          "answer": "film",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a gripping film”.",
+          "referenceTerms": [
+            "gripping"
+          ],
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "misleading ___",
+          "answer": "information",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “misleading information”.",
+          "referenceTerms": [
+            "misleading"
+          ],
+          "id": "q-5",
+          "bookNumber": "5",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a piercing ___",
+          "answer": "scream",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a piercing scream”.",
+          "referenceTerms": [
+            "piercing"
+          ],
+          "id": "q-6",
+          "bookNumber": "6",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "sporadic ___",
+          "answer": "fighting",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “sporadic fighting”.",
+          "referenceTerms": [
+            "sporadic"
+          ],
+          "id": "q-7",
+          "bookNumber": "7",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a sweeping ___",
+          "answer": "generalisation",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a sweeping generalisation”.",
+          "referenceTerms": [
+            "sweeping"
+          ],
+          "id": "q-8",
+          "bookNumber": "8",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a staunch ___",
+          "answer": "Republican",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a staunch Republican”.",
+          "referenceTerms": [
+            "staunch"
+          ],
+          "id": "q-9",
+          "bookNumber": "9",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a watertight ___",
+          "answer": "alibi",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a watertight alibi”.",
+          "referenceTerms": [
+            "watertight"
+          ],
+          "id": "q-10",
+          "bookNumber": "10",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "harrowing ___",
+          "answer": "documentaries on animal experiments",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “harrowing documentaries on animal experiments”.",
+          "referenceTerms": [
+            "harrowing"
+          ],
+          "id": "q-11",
+          "bookNumber": "11",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a lenient ___",
+          "answer": "judge",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a lenient judge”.",
+          "referenceTerms": [
+            "lenient"
+          ],
+          "id": "q-12",
+          "bookNumber": "12",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "a meteoric ___",
+          "answer": "rise",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “a meteoric rise”.",
+          "referenceTerms": [
+            "meteoric"
+          ],
+          "id": "q-13",
+          "bookNumber": "13",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "an avid ___",
+          "answer": "reader",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “an avid reader”.",
+          "referenceTerms": [
+            "avid"
+          ],
+          "id": "q-14",
+          "bookNumber": "14",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "lax ___",
+          "answer": "security",
+          "options": [
+            "view",
+            "fighting",
+            "documentaries on animal experiments",
+            "judge",
+            "lie",
+            "novelist",
+            "reader",
+            "security",
+            "Republican",
+            "information",
+            "generalisation",
+            "rise",
+            "alibi",
+            "film",
+            "scream"
+          ],
+          "explanation": "The document’s combination is “lax security”.",
+          "referenceTerms": [
+            "lax"
+          ],
+          "id": "q-15",
+          "bookNumber": "15",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        }
+      ],
+      "sourcePage": 7
+    },
+    {
+      "id": "book-2",
+      "title": "Exercise 2 · Meaning groups",
+      "instruction": "Put each adjective from the document’s box into its meaning group.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "dreary",
+          "answer": "Boring",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, dreary belongs to the boring group.",
+          "referenceTerms": [
+            "dreary"
+          ],
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "dull",
+          "answer": "Boring",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, dull belongs to the boring group.",
+          "referenceTerms": [
+            "dull"
+          ],
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "mundane",
+          "answer": "Boring",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, mundane belongs to the boring group.",
+          "referenceTerms": [
+            "mundane"
+          ],
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "tedious",
+          "answer": "Boring",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, tedious belongs to the boring group.",
+          "referenceTerms": [
+            "tedious"
+          ],
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "arduous",
+          "answer": "Difficult",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, arduous belongs to the difficult group.",
+          "referenceTerms": [
+            "arduous"
+          ],
+          "id": "q-5",
+          "bookNumber": "5",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "gruelling",
+          "answer": "Difficult",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, gruelling belongs to the difficult group.",
+          "referenceTerms": [
+            "gruelling"
+          ],
+          "id": "q-6",
+          "bookNumber": "6",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "strenuous",
+          "answer": "Difficult",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, strenuous belongs to the difficult group.",
+          "referenceTerms": [
+            "strenuous"
+          ],
+          "id": "q-7",
+          "bookNumber": "7",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "bedraggled",
+          "answer": "Untidy",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, bedraggled belongs to the untidy group.",
+          "referenceTerms": [
+            "bedraggled"
+          ],
+          "id": "q-8",
+          "bookNumber": "8",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "dishevelled",
+          "answer": "Untidy",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, dishevelled belongs to the untidy group.",
+          "referenceTerms": [
+            "dishevelled"
+          ],
+          "id": "q-9",
+          "bookNumber": "9",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "scruffy",
+          "answer": "Untidy",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, scruffy belongs to the untidy group.",
+          "referenceTerms": [
+            "scruffy"
+          ],
+          "id": "q-10",
+          "bookNumber": "10",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "atrocious",
+          "answer": "Bad",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, atrocious belongs to the bad group.",
+          "referenceTerms": [
+            "atrocious"
+          ],
+          "id": "q-11",
+          "bookNumber": "11",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "dreadful",
+          "answer": "Bad",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, dreadful belongs to the bad group.",
+          "referenceTerms": [
+            "dreadful"
+          ],
+          "id": "q-12",
+          "bookNumber": "12",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "lousy",
+          "answer": "Bad",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, lousy belongs to the bad group.",
+          "referenceTerms": [
+            "lousy"
+          ],
+          "id": "q-13",
+          "bookNumber": "13",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "astute",
+          "answer": "Clever",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, astute belongs to the clever group.",
+          "referenceTerms": [
+            "astute"
+          ],
+          "id": "q-14",
+          "bookNumber": "14",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "crafty",
+          "answer": "Clever",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, crafty belongs to the clever group.",
+          "referenceTerms": [
+            "crafty"
+          ],
+          "id": "q-15",
+          "bookNumber": "15",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "shrewd",
+          "answer": "Clever",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, shrewd belongs to the clever group.",
+          "referenceTerms": [
+            "shrewd"
+          ],
+          "id": "q-16",
+          "bookNumber": "16",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "wily",
+          "answer": "Clever",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, wily belongs to the clever group.",
+          "referenceTerms": [
+            "wily"
+          ],
+          "id": "q-17",
+          "bookNumber": "17",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "conventional",
+          "answer": "Ordinary",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, conventional belongs to the ordinary group.",
+          "referenceTerms": [
+            "conventional"
+          ],
+          "id": "q-18",
+          "bookNumber": "18",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "mainstream",
+          "answer": "Ordinary",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, mainstream belongs to the ordinary group.",
+          "referenceTerms": [
+            "mainstream"
+          ],
+          "id": "q-19",
+          "bookNumber": "19",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "middle-of-the-road",
+          "answer": "Ordinary",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, middle-of-the-road belongs to the ordinary group.",
+          "referenceTerms": [
+            "middle-of-the-road"
+          ],
+          "id": "q-20",
+          "bookNumber": "20",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "run-of-the-mill",
+          "answer": "Ordinary",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, run-of-the-mill belongs to the ordinary group.",
+          "referenceTerms": [
+            "run-of-the-mill"
+          ],
+          "id": "q-21",
+          "bookNumber": "21",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "flawless",
+          "answer": "Perfect",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, flawless belongs to the perfect group.",
+          "referenceTerms": [
+            "flawless"
+          ],
+          "id": "q-22",
+          "bookNumber": "22",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "impeccable",
+          "answer": "Perfect",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, impeccable belongs to the perfect group.",
+          "referenceTerms": [
+            "impeccable"
+          ],
+          "id": "q-23",
+          "bookNumber": "23",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        },
+        {
+          "type": "choice",
+          "prompt": "unblemished",
+          "answer": "Perfect",
+          "options": [
+            "Boring",
+            "Difficult",
+            "Untidy",
+            "Bad",
+            "Clever",
+            "Ordinary",
+            "Perfect"
+          ],
+          "explanation": "In the document, unblemished belongs to the perfect group.",
+          "referenceTerms": [
+            "unblemished"
+          ],
+          "id": "q-24",
+          "bookNumber": "24",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence."
+        }
+      ],
+      "sourcePage": 7
+    },
+    {
+      "id": "book-3",
+      "title": "Exercise 3 · Improve the review",
+      "instruction": "Replace each numbered general adjective in the review with a more sophisticated word from Exercise 2. Some replacements are a matter of style; compare your choice with a suggested answer.",
+      "questions": [
+        {
+          "type": "self",
+          "prompt": "1) ordinary boy",
+          "modelAnswer": "a conventional boy / a run-of-the-mill boy",
+          "explanation": "Conventional stresses ordinary; run-of-the-mill adds an unremarkable quality. Other defensible choices may work in context.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "2) bad and unpleasant relatives",
+          "modelAnswer": "dreadful relatives / atrocious relatives",
+          "explanation": "Both express very bad; lousy is more informal.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "3) difficult task",
+          "modelAnswer": "an arduous task",
+          "explanation": "Arduous stresses effort. A strenuous task can also be demanding.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "4) clever Professor Dumbledore",
+          "modelAnswer": "the astute / shrewd Professor Dumbledore",
+          "explanation": "Astute and shrewd suggest good judgement; wily adds cunning.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "5) perfect performances",
+          "modelAnswer": "flawless / impeccable performances",
+          "explanation": "Both express a faultless standard.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "6) boring moment",
+          "modelAnswer": "a dull moment",
+          "explanation": "“Never a dull moment” is a familiar combination.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 7,
+      "passage": "For an entertaining evening, I highly recommend the film version of the first J.K. Rowling book, ‘Harry Potter and the Philosopher’s Stone’. It is the story of an otherwise 1) ordinary boy who possesses magical powers. Orphaned as a baby when his parents were killed by an evil wizard, Harry is brought up by his 2) bad and unpleasant relatives, the Dursleys. Everything changes, however, when an untidy stranger turns up on his doorstep. His name is Hagrid and he happens to be the keeper of keys at Hogwart’s School for magicians. So begins Harry’s education at the school and the 3) difficult task of both learning magic and fighting evil. Under the tutelage of the kindly but 4) clever Professor Dumbledore and with the help of his two faithful friends, Ron and Hermione, Harry achieves his goal. Daniel Radcliffe (as Harry) and his co-stars give 5) perfect performances in this refreshing new film in which there’s never a 6) boring moment.",
+      "passageTitle": "Film review from Exercise 3",
+      "wordBank": [
+        "dreary",
+        "dull",
+        "mundane",
+        "tedious",
+        "arduous",
+        "gruelling",
+        "strenuous",
+        "bedraggled",
+        "dishevelled",
+        "scruffy",
+        "atrocious",
+        "dreadful",
+        "lousy",
+        "astute",
+        "crafty",
+        "shrewd",
+        "wily",
+        "conventional",
+        "mainstream",
+        "middle-of-the-road",
+        "run-of-the-mill",
+        "flawless",
+        "impeccable",
+        "unblemished"
+      ]
+    },
+    {
+      "id": "book-4",
+      "title": "Exercise 4 · Check and use the combinations",
+      "instruction": "Decide whether each combination is possible. If needed, replace the noun. Then use the combination in a sentence. Compare with the usage guidance; there is no single marked sentence.",
+      "questions": [
+        {
+          "type": "self",
+          "prompt": "a gruelling shirt",
+          "modelAnswer": "Revise: a gruelling schedule/day/race.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "gruelling"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a staunch enemy",
+          "modelAnswer": "The lesson teaches staunch supporter/friend/ally. “Staunch enemy” can occur in a wider sense, so explain your context.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "staunch"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a flawless performance",
+          "modelAnswer": "Possible: a flawless performance.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "flawless"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a scruffy pair of jeans",
+          "modelAnswer": "Possible: a scruffy pair of jeans.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "scruffy"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a crafty plan",
+          "modelAnswer": "Possible: a crafty plan.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "crafty"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a shrewd businessman",
+          "modelAnswer": "Possible: a shrewd businessman.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "shrewd"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "strenuous exercise",
+          "modelAnswer": "Possible: strenuous exercise.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-7",
+          "bookNumber": "7",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "strenuous"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a tedious room",
+          "modelAnswer": "The usual combination is a tedious task/journey/job; a dull or dreary room is more natural.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-8",
+          "bookNumber": "8",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "tedious"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "an atrocious driver",
+          "modelAnswer": "Possible: an atrocious driver.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-9",
+          "bookNumber": "9",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "atrocious"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "an astute look",
+          "modelAnswer": "Context-dependent: an astute look can suggest perceptiveness. The lesson lists astute politician/decision and crafty look.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-10",
+          "bookNumber": "10",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "astute"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "an arduous journey",
+          "modelAnswer": "Possible: an arduous journey.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-11",
+          "bookNumber": "11",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "arduous"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "impeccable taste",
+          "modelAnswer": "Possible: impeccable taste.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-12",
+          "bookNumber": "12",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "impeccable"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "mainstream politics",
+          "modelAnswer": "Possible: mainstream politics.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-13",
+          "bookNumber": "13",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "mainstream"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a mundane job",
+          "modelAnswer": "Possible: a mundane job.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-14",
+          "bookNumber": "14",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "mundane"
+          ]
+        },
+        {
+          "type": "self",
+          "prompt": "a dreary journey",
+          "modelAnswer": "Possible: a dreary journey.",
+          "explanation": "Write a sentence that shows the intended meaning. Context can make some uncommon combinations possible.",
+          "id": "q-15",
+          "bookNumber": "15",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": [
+            "dreary"
+          ]
+        }
+      ],
+      "sourcePage": 7
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose a track in Listening. Track-to-unit mappings have not been verified.",
+    "activities": []
+  },
+  "contentVersion": 2,
+  "label": "2"
+}

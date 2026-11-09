@@ -1,0 +1,733 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-4",
+  "number": 4,
+  "title": "… and … Pair phrases",
+  "shortTitle": "Pair phrases",
+  "description": "Learn fixed word pairs that make everyday English more natural.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Recognise common fixed pairs",
+    "Keep fixed phrases in their usual order",
+    "Use pair phrases in context"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 4,
+    "pages": [
+      10,
+      11
+    ],
+    "pdf": "sources/unit-4.pdf",
+    "note": "Lesson vocabulary, examples and written tasks follow the supplied pages. Definitions are condensed for readability; spacing and obvious scan errors are corrected. Hints, explanations and model answers are study aids, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Fixed pairs: amounts, time and situations",
+      "body": "The document presents fixed expressions with and. Learn the pair in its usual order and use the original examples to connect the expression to its meaning.",
+      "terms": [
+        "dribs and drabs",
+        "bright and early",
+        "by and large",
+        "few and far between",
+        "grin and bear it",
+        "ins and outs",
+        "song and dance",
+        "odds and ends"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Fixed pairs: relationships and reactions",
+      "body": "Some pairs form part of a longer expression. Keep the surrounding words too: make a song and dance about, part and parcel of, and your own flesh and blood.",
+      "terms": [
+        "once and for all",
+        "flesh and blood",
+        "out-and-out",
+        "part and parcel",
+        "peace and quiet",
+        "pride and joy",
+        "prim and proper",
+        "pushing and shoving"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Fixed pairs: condition, outcomes and fairness",
+      "body": "The remaining phrases describe safety, cleanliness, uncertainty, promise, changes and outcomes. These are the phrases needed for the document’s completion, repair and rewriting tasks.",
+      "terms": [
+        "safe and sound",
+        "spick and span",
+        "touch and go",
+        "up-and-coming",
+        "ups and downs",
+        "wear and tear",
+        "well and truly",
+        "fair and square"
+      ],
+      "examples": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "dribs and drabs",
+      "definition": "Small amounts arriving irregularly.",
+      "example": "We're receiving food, but it is only arriving in dribs and drabs.",
+      "note": "Often after in.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "bright and early",
+      "definition": "Very early, with a positive sense of readiness.",
+      "example": "If we leave bright and early tomorrow morning, we should get there by midday.",
+      "note": "Often with leave, start or get up.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "by and large",
+      "definition": "Generally; on the whole.",
+      "example": "By and large, most people would prefer to have a badly paid job that they liked rather than a well paid job that they disliked.",
+      "note": "Often introduces a general judgement.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "few and far between",
+      "definition": "Uncommon or hard to find.",
+      "example": "Good jobs are few and far between in days of high unemployment.",
+      "note": "Usually after be.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "grin and bear it",
+      "definition": "Accept an unpleasant situation without complaining.",
+      "example": "A shorter lunch break is new company policy, so we'll just have to grin and bear it.",
+      "note": "Informal.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "ins and outs",
+      "definition": "The details of a complicated situation.",
+      "example": "We have yet to discuss all the ins and outs of his proposal.",
+      "note": "Usually the ins and outs of.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "song and dance",
+      "definition": "An unnecessary fuss.",
+      "example": "I was only 10 minutes late. Why are you making such a song and dance about it?",
+      "note": "Usually make a song and dance about.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "odds and ends",
+      "definition": "Various small items.",
+      "example": "Everything had been packed away in boxes except for a few odds and ends.",
+      "note": "Plural noun phrase.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "once and for all",
+      "definition": "Finally and decisively, ending doubt or repetition.",
+      "example": "He set out to prove once and for all that Deakin's alibi was nothing but a tissue of lies.",
+      "note": "Not simply one time.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "flesh and blood",
+      "definition": "A person’s relatives or family.",
+      "example": "We're talking about my family here, my own flesh and blood. Of course I trust them.",
+      "note": "Often own flesh and blood.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "out-and-out",
+      "definition": "Complete or absolute.",
+      "example": "That is an out-and-out lie; you've made it all up!",
+      "note": "Compound adjective; often negative.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "part and parcel",
+      "definition": "An essential or unavoidable part.",
+      "example": "Having your private life splashed across the front pages of newspapers and glossy magazines is part and parcel of being a celebrity.",
+      "note": "Usually part and parcel of.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "peace and quiet",
+      "definition": "Calm and freedom from disturbance.",
+      "example": "We took a couple of days off and went to the country for a bit of peace and quiet.",
+      "note": "Uncountable phrase.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "pride and joy",
+      "definition": "Someone or something especially valued.",
+      "example": "His car/daughter/garden is his pride and joy.",
+      "note": "Usually possessive + pride and joy.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "prim and proper",
+      "definition": "Very formal, conventional and easily shocked.",
+      "example": "She's far too prim and proper to have written anything as scandalous as that.",
+      "note": "Describes a person or manner.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "pushing and shoving",
+      "definition": "Forceful pushing in a crowd.",
+      "example": "After a lot of pushing and shoving, I finally made it to the counter where everything had been reduced by 50%.",
+      "note": "Usually describes a crowd.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "safe and sound",
+      "definition": "Safe and unharmed after possible danger.",
+      "example": "The two children, who had been missing for three days, were found safe and sound hiding in an abandoned mine shaft.",
+      "note": "Often after arrive, return or be found.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "spick and span",
+      "definition": "Extremely clean and tidy.",
+      "example": "When I get back, I want this place looking spick and span.",
+      "note": "US variant spic and span is also used.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "touch and go",
+      "definition": "Uncertain, especially for a serious outcome.",
+      "example": "It was touch and go whether they would allow us to leave the country.",
+      "note": "Often it was touch and go whether.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "up-and-coming",
+      "definition": "Showing promise of future success.",
+      "example": "The government has introduced a scheme whereby up-and-coming young athletes will receive financial support.",
+      "note": "Compound adjective.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "ups and downs",
+      "definition": "Good and bad periods.",
+      "example": "What family doesn't have its ups and downs?",
+      "note": "Plural noun phrase.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "wear and tear",
+      "definition": "Deterioration caused by normal use.",
+      "example": "Even allowing for wear and tear, these chair covers should last for at least fifteen years.",
+      "note": "Different from deliberate damage.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "well and truly",
+      "definition": "Completely.",
+      "example": "After walking for three hours, we realised that we were well and truly lost. / As we had been well and truly beaten the Saturday before, the manager decided to make wholesale changes to the team.",
+      "note": "Emphatic.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "fair and square",
+      "definition": "Honestly and according to the rules.",
+      "example": "What do you mean I cheated? I won fair and square, and you know it.",
+      "note": "Often with win or beat.",
+      "sourcePage": 10,
+      "exampleSource": "Supplied document: lesson page"
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "book-1a",
+      "title": "Exercise 1a · Complete the pairs",
+      "instruction": "Complete each sentence with a word from the original box. Select a chip or type the missing word.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "He won fair and ___.",
+          "answer": [
+            "square"
+          ],
+          "explanation": "The fixed pair ends with “square”.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "She got up bright and ___.",
+          "answer": [
+            "early"
+          ],
+          "explanation": "The fixed pair ends with “early”.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "We need some peace and ___.",
+          "answer": [
+            "quiet"
+          ],
+          "explanation": "The fixed pair ends with “quiet”.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "The guests arrived in dribs and ___.",
+          "answer": [
+            "drabs"
+          ],
+          "explanation": "The fixed pair ends with “drabs”.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "They got there safe and ___.",
+          "answer": [
+            "sound"
+          ],
+          "explanation": "The fixed pair ends with “sound”.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "There was a lot of pushing and ___.",
+          "answer": [
+            "shoving"
+          ],
+          "explanation": "The fixed pair ends with “shoving”.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "She's their pride and ___.",
+          "answer": [
+            "joy"
+          ],
+          "explanation": "The fixed pair ends with “joy”.",
+          "id": "q-7",
+          "bookNumber": "7",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "That's wear and ___.",
+          "answer": [
+            "tear"
+          ],
+          "explanation": "The fixed pair ends with “tear”.",
+          "id": "q-8",
+          "bookNumber": "8",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "Like any couple, they have their ups and ___.",
+          "answer": [
+            "downs"
+          ],
+          "explanation": "The fixed pair ends with “downs”.",
+          "id": "q-9",
+          "bookNumber": "9",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "He's your own flesh and ___.",
+          "answer": [
+            "blood"
+          ],
+          "explanation": "The fixed pair ends with “blood”.",
+          "id": "q-10",
+          "bookNumber": "10",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "We'll soon have this place looking spick and ___.",
+          "answer": [
+            "span"
+          ],
+          "explanation": "The fixed pair ends with “span”.",
+          "id": "q-11",
+          "bookNumber": "11",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "I don't know the ins and ___.",
+          "answer": [
+            "outs"
+          ],
+          "explanation": "The fixed pair ends with “outs”.",
+          "id": "q-12",
+          "bookNumber": "12",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 11,
+      "wordBank": [
+        "downs",
+        "early",
+        "quiet",
+        "sound",
+        "tear",
+        "outs",
+        "joy",
+        "blood",
+        "drabs",
+        "square",
+        "span",
+        "shoving"
+      ]
+    },
+    {
+      "id": "book-1b",
+      "title": "Exercise 1b · Make a response",
+      "instruction": "Respond using a pair phrase from Exercise 1a. The document’s example is: “You cheated in the competition!” → “No, I won fair and square!” Compare your response with a model; other sensible responses are possible.",
+      "questions": [
+        {
+          "type": "self",
+          "prompt": "Your garden looks wonderful!",
+          "modelAnswer": "Thank you. It's my pride and joy.",
+          "explanation": "This is a suggested response, not the only possible sentence.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "So, how are things between you?",
+          "modelAnswer": "We have our ups and downs.",
+          "explanation": "This is a suggested response, not the only possible sentence.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "What was the rock concert like?",
+          "modelAnswer": "There was a lot of pushing and shoving.",
+          "explanation": "This is a suggested response, not the only possible sentence.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "How about a weekend in the countryside?",
+          "modelAnswer": "I'd love some peace and quiet.",
+          "explanation": "This is a suggested response, not the only possible sentence.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 11
+    },
+    {
+      "id": "book-2",
+      "title": "Exercise 2 · Repair the pairs",
+      "instruction": "The pair phrases in these sentences have been mixed up. Type only the corrected expression, not the whole sentence.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "I know it's not fair, but you'll just have to grin and dance it.",
+          "answer": [
+            "grin and bear it"
+          ],
+          "explanation": "The corrected expression is “grin and bear it”.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "These carpets last for many years, even allowing for everyday wear and bear.",
+          "answer": [
+            "wear and tear"
+          ],
+          "explanation": "The corrected expression is “wear and tear”.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "There was nothing in her bag but a few outs and ends.",
+          "answer": [
+            "odds and ends"
+          ],
+          "explanation": "The corrected expression is “odds and ends”.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "As you can imagine, he's devastated. That Ferrari was his pride and go.",
+          "answer": [
+            "pride and joy"
+          ],
+          "explanation": "The corrected expression is “pride and joy”.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "By and once, typed essays are much easier to read than hand-written ones.",
+          "answer": [
+            "by and large"
+          ],
+          "explanation": "The corrected expression is “by and large”.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "She's far too prim and parcel to agree to anything as outrageous as that.",
+          "answer": [
+            "prim and proper"
+          ],
+          "explanation": "The corrected expression is “prim and proper”.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "It's annoying, I know, but do you really have to make such a song and far about it?",
+          "answer": [
+            "song and dance"
+          ],
+          "explanation": "The corrected expression is “song and dance”.",
+          "id": "q-7",
+          "bookNumber": "7",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "Players of his calibre are few and large between, so keep him happy.",
+          "answer": [
+            "few and far between"
+          ],
+          "explanation": "The corrected expression is “few and far between”.",
+          "id": "q-8",
+          "bookNumber": "8",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "Making mistakes is part and joy of the learning process.",
+          "answer": [
+            "part and parcel"
+          ],
+          "explanation": "The corrected expression is “part and parcel”.",
+          "id": "q-9",
+          "bookNumber": "9",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "I don't know all the ins and odds of the situation, but the fact remains that the wrong diagnosis killed her.",
+          "answer": [
+            "ins and outs"
+          ],
+          "explanation": "The corrected expression is “ins and outs”.",
+          "id": "q-10",
+          "bookNumber": "10",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "Let's get this clear, proper and for all. I did not say that you hated Jane.",
+          "answer": [
+            "once and for all"
+          ],
+          "explanation": "The corrected expression is “once and for all”.",
+          "id": "q-11",
+          "bookNumber": "11",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "The doctors said it was touch and tear whether he would survive the operation.",
+          "answer": [
+            "touch and go"
+          ],
+          "explanation": "The corrected expression is “touch and go”.",
+          "id": "q-12",
+          "bookNumber": "12",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 11,
+      "wordBank": [
+        "grin and bear it",
+        "wear and tear",
+        "odds and ends",
+        "pride and joy",
+        "by and large",
+        "prim and proper",
+        "song and dance",
+        "few and far between",
+        "part and parcel",
+        "ins and outs",
+        "once and for all",
+        "touch and go"
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": "Exercise 3 · Rewrite the sentence",
+      "instruction": "Rewrite using a pair phrase from Exercises 1 and 2. Compare with a model answer; wording can vary.",
+      "questions": [
+        {
+          "type": "self",
+          "prompt": "How could you have said such a thing to him? He is your brother.",
+          "modelAnswer": "How could you have said such a thing to him? He is your own flesh and blood.",
+          "explanation": "Keep the original meaning while using the fixed phrase in its normal form.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "You're just going to have to put up with it.",
+          "modelAnswer": "You're just going to have to grin and bear it.",
+          "explanation": "Keep the original meaning while using the fixed phrase in its normal form.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "I want this room looking spotless when I get back.",
+          "modelAnswer": "I want this room looking spick and span when I get back.",
+          "explanation": "Keep the original meaning while using the fixed phrase in its normal form.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "He loves his tomato plants.",
+          "modelAnswer": "His tomato plants are his pride and joy.",
+          "explanation": "Keep the original meaning while using the fixed phrase in its normal form.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "Cheap hotels are pretty hard to find in this neighbourhood.",
+          "modelAnswer": "Cheap hotels are few and far between in this neighbourhood.",
+          "explanation": "Keep the original meaning while using the fixed phrase in its normal form.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "She didn't cheat.",
+          "modelAnswer": "She won fair and square.",
+          "explanation": "Keep the original meaning while using the fixed phrase in its normal form.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        },
+        {
+          "type": "self",
+          "prompt": "There is no need to make such a fuss about it.",
+          "modelAnswer": "There is no need to make such a song and dance about it.",
+          "explanation": "Keep the original meaning while using the fixed phrase in its normal form.",
+          "id": "q-7",
+          "bookNumber": "7",
+          "hint": "Look at the lesson reference beside the question and read the whole sentence.",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 11
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose a track in Listening. Track-to-unit mappings have not been verified.",
+    "activities": []
+  },
+  "contentVersion": 2,
+  "label": "4"
+}

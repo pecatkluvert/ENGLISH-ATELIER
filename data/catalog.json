@@ -1,0 +1,943 @@
+{
+  "schemaVersion": 1,
+  "targetUnitCount": 116,
+  "source": "Contents screenshots supplied by the user. Unit 60 has two sections, 60a and 60b. Only registered source-backed units contain lessons.",
+  "units": [
+    {
+      "id": "unit-1",
+      "number": 1,
+      "label": "1",
+      "order": 1,
+      "title": "Adjectives I (Behaviour and Traits)",
+      "page": 4
+    },
+    {
+      "id": "unit-2",
+      "number": 2,
+      "label": "2",
+      "order": 2,
+      "title": "Adjectives II",
+      "page": 6
+    },
+    {
+      "id": "unit-3",
+      "number": 3,
+      "label": "3",
+      "order": 3,
+      "title": "Adjectives III (Word formation)",
+      "page": 8
+    },
+    {
+      "id": "unit-4",
+      "number": 4,
+      "label": "4",
+      "order": 4,
+      "title": "… and … Pair phrases",
+      "page": 10
+    },
+    {
+      "id": "unit-5",
+      "number": 5,
+      "label": "5",
+      "order": 5,
+      "title": "Anger and Annoyance – Animals",
+      "page": 12
+    },
+    {
+      "id": "unit-6",
+      "number": 6,
+      "label": "6",
+      "order": 6,
+      "title": "Arguing",
+      "page": 14
+    },
+    {
+      "id": "unit-7",
+      "number": 7,
+      "label": "7",
+      "order": 7,
+      "title": "Body",
+      "page": 16
+    },
+    {
+      "id": "unit-8",
+      "number": 8,
+      "label": "8",
+      "order": 8,
+      "title": "Body Idioms",
+      "page": 18
+    },
+    {
+      "id": "unit-9",
+      "number": 9,
+      "label": "9",
+      "order": 9,
+      "title": "Chance and Probability",
+      "page": 20
+    },
+    {
+      "id": "unit-10",
+      "number": 10,
+      "label": "10",
+      "order": 10,
+      "title": "Choosing and Decisions – Clothes (Adjectives)",
+      "page": 22
+    },
+    {
+      "id": "unit-11",
+      "number": 11,
+      "label": "11",
+      "order": 11,
+      "title": "Clothes II (Idioms) – Colours",
+      "page": 24
+    },
+    {
+      "id": "unit-12",
+      "number": 12,
+      "label": "12",
+      "order": 12,
+      "title": "Comparing",
+      "page": 26
+    },
+    {
+      "id": "unit-13",
+      "number": 13,
+      "label": "13",
+      "order": 13,
+      "title": "Cooking and Food",
+      "page": 28
+    },
+    {
+      "id": "unit-14",
+      "number": 14,
+      "label": "14",
+      "order": 14,
+      "title": "Crime I",
+      "page": 30
+    },
+    {
+      "id": "unit-15",
+      "number": 15,
+      "label": "15",
+      "order": 15,
+      "title": "Crime II (Vocabulary and Collocations)",
+      "page": 32
+    },
+    {
+      "id": "unit-16",
+      "number": 16,
+      "label": "16",
+      "order": 16,
+      "title": "Damage and Conditions",
+      "page": 34
+    },
+    {
+      "id": "unit-17",
+      "number": 17,
+      "label": "17",
+      "order": 17,
+      "title": "Determination – Likes-Dislikes",
+      "page": 36
+    },
+    {
+      "id": "unit-18",
+      "number": 18,
+      "label": "18",
+      "order": 18,
+      "title": "Driving",
+      "page": 38
+    },
+    {
+      "id": "unit-19",
+      "number": 19,
+      "label": "19",
+      "order": 19,
+      "title": "Eating and Drinking",
+      "page": 40
+    },
+    {
+      "id": "unit-20",
+      "number": 20,
+      "label": "20",
+      "order": 20,
+      "title": "Education",
+      "page": 42
+    },
+    {
+      "id": "unit-21",
+      "number": 21,
+      "label": "21",
+      "order": 21,
+      "title": "Emphasis (Extreme Adjectives – Very)",
+      "page": 44
+    },
+    {
+      "id": "unit-22",
+      "number": 22,
+      "label": "22",
+      "order": 22,
+      "title": "Entertainment",
+      "page": 46
+    },
+    {
+      "id": "unit-23",
+      "number": 23,
+      "label": "23",
+      "order": 23,
+      "title": "Face",
+      "page": 48
+    },
+    {
+      "id": "unit-24",
+      "number": 24,
+      "label": "24",
+      "order": 24,
+      "title": "Fire and Light",
+      "page": 50
+    },
+    {
+      "id": "unit-25",
+      "number": 25,
+      "label": "25",
+      "order": 25,
+      "title": "Food I",
+      "page": 52
+    },
+    {
+      "id": "unit-26",
+      "number": 26,
+      "label": "26",
+      "order": 26,
+      "title": "Food II",
+      "page": 54
+    },
+    {
+      "id": "unit-27",
+      "number": 27,
+      "label": "27",
+      "order": 27,
+      "title": "Hands – Holding, Pushing, Pulling, Taking",
+      "page": 56
+    },
+    {
+      "id": "unit-28",
+      "number": 28,
+      "label": "28",
+      "order": 28,
+      "title": "Health I",
+      "page": 58
+    },
+    {
+      "id": "unit-29",
+      "number": 29,
+      "label": "29",
+      "order": 29,
+      "title": "Health II",
+      "page": 60
+    },
+    {
+      "id": "unit-30",
+      "number": 30,
+      "label": "30",
+      "order": 30,
+      "title": "Im … and En …",
+      "page": 62
+    },
+    {
+      "id": "unit-31",
+      "number": 31,
+      "label": "31",
+      "order": 31,
+      "title": "Informal Language",
+      "page": 64
+    },
+    {
+      "id": "unit-32",
+      "number": 32,
+      "label": "32",
+      "order": 32,
+      "title": "-ing form vs to",
+      "page": 66
+    },
+    {
+      "id": "unit-33",
+      "number": 33,
+      "label": "33",
+      "order": 33,
+      "title": "Introductions",
+      "page": 68
+    },
+    {
+      "id": "unit-34",
+      "number": 34,
+      "label": "34",
+      "order": 34,
+      "title": "… it …",
+      "page": 70
+    },
+    {
+      "id": "unit-35",
+      "number": 35,
+      "label": "35",
+      "order": 35,
+      "title": "Key Words I",
+      "page": 72
+    },
+    {
+      "id": "unit-36",
+      "number": 36,
+      "label": "36",
+      "order": 36,
+      "title": "Key Words II",
+      "page": 74
+    },
+    {
+      "id": "unit-37",
+      "number": 37,
+      "label": "37",
+      "order": 37,
+      "title": "Linking Words",
+      "page": 76
+    },
+    {
+      "id": "unit-38",
+      "number": 38,
+      "label": "38",
+      "order": 38,
+      "title": "Little Words – Modals",
+      "page": 78
+    },
+    {
+      "id": "unit-39",
+      "number": 39,
+      "label": "39",
+      "order": 39,
+      "title": "Looking / Seeing",
+      "page": 80
+    },
+    {
+      "id": "unit-40",
+      "number": 40,
+      "label": "40",
+      "order": 40,
+      "title": "Money I",
+      "page": 82
+    },
+    {
+      "id": "unit-41",
+      "number": 41,
+      "label": "41",
+      "order": 41,
+      "title": "Money II",
+      "page": 84
+    },
+    {
+      "id": "unit-42",
+      "number": 42,
+      "label": "42",
+      "order": 42,
+      "title": "Nature – Noise I",
+      "page": 86
+    },
+    {
+      "id": "unit-43",
+      "number": 43,
+      "label": "43",
+      "order": 43,
+      "title": "Noise II – Nouns I",
+      "page": 88
+    },
+    {
+      "id": "unit-44",
+      "number": 44,
+      "label": "44",
+      "order": 44,
+      "title": "Nouns II",
+      "page": 90
+    },
+    {
+      "id": "unit-45",
+      "number": 45,
+      "label": "45",
+      "order": 45,
+      "title": "Nouns III",
+      "page": 92
+    },
+    {
+      "id": "unit-46",
+      "number": 46,
+      "label": "46",
+      "order": 46,
+      "title": "Nouns IV",
+      "page": 94
+    },
+    {
+      "id": "unit-47",
+      "number": 47,
+      "label": "47",
+      "order": 47,
+      "title": "Numbers – Objects",
+      "page": 96
+    },
+    {
+      "id": "unit-48",
+      "number": 48,
+      "label": "48",
+      "order": 48,
+      "title": "… of … I",
+      "page": 98
+    },
+    {
+      "id": "unit-49",
+      "number": 49,
+      "label": "49",
+      "order": 49,
+      "title": "… of … II",
+      "page": 100
+    },
+    {
+      "id": "unit-50",
+      "number": 50,
+      "label": "50",
+      "order": 50,
+      "title": "People and Personality",
+      "page": 102
+    },
+    {
+      "id": "unit-51",
+      "number": 51,
+      "label": "51",
+      "order": 51,
+      "title": "Physical Description",
+      "page": 104
+    },
+    {
+      "id": "unit-52",
+      "number": 52,
+      "label": "52",
+      "order": 52,
+      "title": "Place (Adjectives)",
+      "page": 106
+    },
+    {
+      "id": "unit-53",
+      "number": 53,
+      "label": "53",
+      "order": 53,
+      "title": "Problems",
+      "page": 108
+    },
+    {
+      "id": "unit-54",
+      "number": 54,
+      "label": "54",
+      "order": 54,
+      "title": "Reactions – Short and Long",
+      "page": 110
+    },
+    {
+      "id": "unit-55",
+      "number": 55,
+      "label": "55",
+      "order": 55,
+      "title": "Sleep and Bed",
+      "page": 112
+    },
+    {
+      "id": "unit-56",
+      "number": 56,
+      "label": "56",
+      "order": 56,
+      "title": "Something, Anything, Nothing – Speaking and Communicating I",
+      "page": 114
+    },
+    {
+      "id": "unit-57",
+      "number": 57,
+      "label": "57",
+      "order": 57,
+      "title": "Speaking and Communicating II – Sport",
+      "page": 116
+    },
+    {
+      "id": "unit-58",
+      "number": 58,
+      "label": "58",
+      "order": 58,
+      "title": "Talking (Reporting verbs)",
+      "page": 118
+    },
+    {
+      "id": "unit-59",
+      "number": 59,
+      "label": "59",
+      "order": 59,
+      "title": "There is … – Time I",
+      "page": 120
+    },
+    {
+      "id": "unit-60a",
+      "number": 60,
+      "label": "60a",
+      "order": 60,
+      "title": "Time II",
+      "page": 122
+    },
+    {
+      "id": "unit-60b",
+      "number": 60,
+      "label": "60b",
+      "order": 61,
+      "title": "Time III",
+      "page": 124
+    },
+    {
+      "id": "unit-61",
+      "number": 61,
+      "label": "61",
+      "order": 62,
+      "title": "Travel",
+      "page": 126
+    },
+    {
+      "id": "unit-62",
+      "number": 62,
+      "label": "62",
+      "order": 63,
+      "title": "Under, Over and Out",
+      "page": 128
+    },
+    {
+      "id": "unit-63",
+      "number": 63,
+      "label": "63",
+      "order": 64,
+      "title": "Unhappy and Happy",
+      "page": 130
+    },
+    {
+      "id": "unit-64",
+      "number": 64,
+      "label": "64",
+      "order": 65,
+      "title": "Verbs I",
+      "page": 132
+    },
+    {
+      "id": "unit-65",
+      "number": 65,
+      "label": "65",
+      "order": 66,
+      "title": "Verbs II",
+      "page": 134
+    },
+    {
+      "id": "unit-66",
+      "number": 66,
+      "label": "66",
+      "order": 67,
+      "title": "Verbs III",
+      "page": 136
+    },
+    {
+      "id": "unit-67",
+      "number": 67,
+      "label": "67",
+      "order": 68,
+      "title": "Walking and Running",
+      "page": 138
+    },
+    {
+      "id": "unit-68",
+      "number": 68,
+      "label": "68",
+      "order": 69,
+      "title": "Ways of …",
+      "page": 140
+    },
+    {
+      "id": "unit-69",
+      "number": 69,
+      "label": "69",
+      "order": 70,
+      "title": "Weather I",
+      "page": 142
+    },
+    {
+      "id": "unit-70",
+      "number": 70,
+      "label": "70",
+      "order": 71,
+      "title": "Weather II",
+      "page": 144
+    },
+    {
+      "id": "unit-71",
+      "number": 71,
+      "label": "71",
+      "order": 72,
+      "title": "Wishing, Wanting, Requests, Permission and Preferences",
+      "page": 146
+    },
+    {
+      "id": "unit-72",
+      "number": 72,
+      "label": "72",
+      "order": 73,
+      "title": "Work and Earning a Living",
+      "page": 148
+    },
+    {
+      "id": "unit-73",
+      "number": 73,
+      "label": "73",
+      "order": 74,
+      "title": "Compound Adjectives – Adverb Combinations I",
+      "page": 150
+    },
+    {
+      "id": "unit-74",
+      "number": 74,
+      "label": "74",
+      "order": 75,
+      "title": "Adverb Combinations II",
+      "page": 152
+    },
+    {
+      "id": "unit-75",
+      "number": 75,
+      "label": "75",
+      "order": 76,
+      "title": "Noun Combinations I",
+      "page": 154
+    },
+    {
+      "id": "unit-76",
+      "number": 76,
+      "label": "76",
+      "order": 77,
+      "title": "Noun Combinations II",
+      "page": 156
+    },
+    {
+      "id": "unit-77",
+      "number": 77,
+      "label": "77",
+      "order": 78,
+      "title": "Noun Combinations III",
+      "page": 158
+    },
+    {
+      "id": "unit-78",
+      "number": 78,
+      "label": "78",
+      "order": 79,
+      "title": "Noun Combinations IV",
+      "page": 160
+    },
+    {
+      "id": "unit-79",
+      "number": 79,
+      "label": "79",
+      "order": 80,
+      "title": "Verb Combinations I",
+      "page": 162
+    },
+    {
+      "id": "unit-80",
+      "number": 80,
+      "label": "80",
+      "order": 81,
+      "title": "Verb Combinations II",
+      "page": 164
+    },
+    {
+      "id": "unit-81",
+      "number": 81,
+      "label": "81",
+      "order": 82,
+      "title": "Verb Combinations III",
+      "page": 166
+    },
+    {
+      "id": "unit-82",
+      "number": 82,
+      "label": "82",
+      "order": 83,
+      "title": "Verb Combinations IV",
+      "page": 168
+    },
+    {
+      "id": "unit-83",
+      "number": 83,
+      "label": "83",
+      "order": 84,
+      "title": "Verb Combinations V",
+      "page": 170
+    },
+    {
+      "id": "unit-84",
+      "number": 84,
+      "label": "84",
+      "order": 85,
+      "title": "A, B and C Prepositions",
+      "page": 172
+    },
+    {
+      "id": "unit-85",
+      "number": 85,
+      "label": "85",
+      "order": 86,
+      "title": "D to J Prepositions",
+      "page": 174
+    },
+    {
+      "id": "unit-86",
+      "number": 86,
+      "label": "86",
+      "order": 87,
+      "title": "K to P Prepositions",
+      "page": 176
+    },
+    {
+      "id": "unit-87",
+      "number": 87,
+      "label": "87",
+      "order": 88,
+      "title": "R and S Prepositions",
+      "page": 178
+    },
+    {
+      "id": "unit-88",
+      "number": 88,
+      "label": "88",
+      "order": 89,
+      "title": "T to W Prepositions – At … Prepositional Phrases",
+      "page": 180
+    },
+    {
+      "id": "unit-89",
+      "number": 89,
+      "label": "89",
+      "order": 90,
+      "title": "In … Prepositional Phrases",
+      "page": 182
+    },
+    {
+      "id": "unit-90",
+      "number": 90,
+      "label": "90",
+      "order": 91,
+      "title": "On … Prepositional Phrases",
+      "page": 184
+    },
+    {
+      "id": "unit-91",
+      "number": 91,
+      "label": "91",
+      "order": 92,
+      "title": "Prepositional Phrases – Preposition … Preposition I",
+      "page": 186
+    },
+    {
+      "id": "unit-92",
+      "number": 92,
+      "label": "92",
+      "order": 93,
+      "title": "Preposition … Preposition II",
+      "page": 188
+    },
+    {
+      "id": "unit-93",
+      "number": 93,
+      "label": "93",
+      "order": 94,
+      "title": "A, B and C Phrasal Verbs",
+      "page": 190
+    },
+    {
+      "id": "unit-94",
+      "number": 94,
+      "label": "94",
+      "order": 95,
+      "title": "D, E and F Phrasal Verbs",
+      "page": 192
+    },
+    {
+      "id": "unit-95",
+      "number": 95,
+      "label": "95",
+      "order": 96,
+      "title": "G to M Phrasal Verbs",
+      "page": 194
+    },
+    {
+      "id": "unit-96",
+      "number": 96,
+      "label": "96",
+      "order": 97,
+      "title": "N, O and P Phrasal Verbs",
+      "page": 196
+    },
+    {
+      "id": "unit-97",
+      "number": 97,
+      "label": "97",
+      "order": 98,
+      "title": "R and S Phrasal Verbs",
+      "page": 198
+    },
+    {
+      "id": "unit-98",
+      "number": 98,
+      "label": "98",
+      "order": 99,
+      "title": "T and W Phrasal Verbs",
+      "page": 200
+    },
+    {
+      "id": "unit-99",
+      "number": 99,
+      "label": "99",
+      "order": 100,
+      "title": "Phrasal Verbs I",
+      "page": 202
+    },
+    {
+      "id": "unit-100",
+      "number": 100,
+      "label": "100",
+      "order": 101,
+      "title": "Phrasal Verbs II",
+      "page": 204
+    },
+    {
+      "id": "unit-101",
+      "number": 101,
+      "label": "101",
+      "order": 102,
+      "title": "Phrasal Nouns",
+      "page": 206
+    },
+    {
+      "id": "unit-102",
+      "number": 102,
+      "label": "102",
+      "order": 103,
+      "title": "Be (Phrases)",
+      "page": 208
+    },
+    {
+      "id": "unit-103",
+      "number": 103,
+      "label": "103",
+      "order": 104,
+      "title": "Break – Bring – Catch (Phrases)",
+      "page": 210
+    },
+    {
+      "id": "unit-104",
+      "number": 104,
+      "label": "104",
+      "order": 105,
+      "title": "Come (Expressions/Phrasal Verbs)",
+      "page": 212
+    },
+    {
+      "id": "unit-105",
+      "number": 105,
+      "label": "105",
+      "order": 106,
+      "title": "Do or Make",
+      "page": 214
+    },
+    {
+      "id": "unit-106",
+      "number": 106,
+      "label": "106",
+      "order": 107,
+      "title": "Fall (Expressions/Phrasal Verbs)",
+      "page": 216
+    },
+    {
+      "id": "unit-107",
+      "number": 107,
+      "label": "107",
+      "order": 108,
+      "title": "Get (Expressions I)",
+      "page": 218
+    },
+    {
+      "id": "unit-108",
+      "number": 108,
+      "label": "108",
+      "order": 109,
+      "title": "Get (Expressions II/Phrasal Verbs)",
+      "page": 220
+    },
+    {
+      "id": "unit-109",
+      "number": 109,
+      "label": "109",
+      "order": 110,
+      "title": "Give (Expressions/Phrasal Verbs)",
+      "page": 222
+    },
+    {
+      "id": "unit-110",
+      "number": 110,
+      "label": "110",
+      "order": 111,
+      "title": "Go (Expressions)",
+      "page": 224
+    },
+    {
+      "id": "unit-111",
+      "number": 111,
+      "label": "111",
+      "order": 112,
+      "title": "Go (Phrasal Verbs)/Have (Expressions)",
+      "page": 226
+    },
+    {
+      "id": "unit-112",
+      "number": 112,
+      "label": "112",
+      "order": 113,
+      "title": "Make (Combinations/Expressions I)",
+      "page": 228
+    },
+    {
+      "id": "unit-113",
+      "number": 113,
+      "label": "113",
+      "order": 114,
+      "title": "Make (Expressions II/Phrasal Verbs)",
+      "page": 230
+    },
+    {
+      "id": "unit-114",
+      "number": 114,
+      "label": "114",
+      "order": 115,
+      "title": "Put (Expressions/Phrasal Verbs)",
+      "page": 232
+    },
+    {
+      "id": "unit-115",
+      "number": 115,
+      "label": "115",
+      "order": 116,
+      "title": "Set (Combinations/Expressions/Phrasal Verbs)",
+      "page": 234
+    },
+    {
+      "id": "unit-116",
+      "number": 116,
+      "label": "116",
+      "order": 117,
+      "title": "Take (Expressions/Phrasal Verbs)",
+      "page": 236
+    }
+  ]
+}

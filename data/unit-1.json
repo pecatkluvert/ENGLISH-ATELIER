@@ -1,0 +1,497 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-1",
+  "number": 1,
+  "title": "Adjectives I (Behaviour and Traits)",
+  "shortTitle": "Behaviour and Traits",
+  "description": "Find the precise words for personality, behaviour and attitude.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Describe behaviour with precision",
+    "Recognise positive and negative connotations",
+    "Support an interpretation with evidence"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 1,
+    "pages": [
+      4,
+      5
+    ],
+    "pdf": "sources/unit-1.pdf",
+    "note": "Lesson vocabulary, examples and written tasks follow the supplied pages. Definitions are condensed for readability; spacing and obvious scan errors are corrected. Hints, explanations and model answers are study aids, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Adjective position and connotation",
+      "body": "The document marks negative connotations with (−), positive connotations with (+), and context-dependent connotations with (−/+). All these adjectives can be used before a noun or after it, often with the verb to be.",
+      "terms": [
+        "blunt",
+        "brash",
+        "calculating",
+        "callous",
+        "cantankerous",
+        "cheerful"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Curiosity, care and persistence",
+      "body": "Inquisitive has two senses in the document: intrusive curiosity about private lives, and a positive eagerness to learn, especially in children. Meticulous stresses attention to small details; persistent stresses refusing to give up.",
+      "terms": [
+        "curt",
+        "fickle",
+        "inquisitive",
+        "meticulous",
+        "persistent",
+        "reckless"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Temperament and reactions",
+      "body": "Study the remaining traits and their examples from the document. Reckless and ruthless can describe actions as well as people. Use the character sketches in Practice to connect these meanings to evidence.",
+      "terms": [
+        "ruthless",
+        "squeamish",
+        "sullen",
+        "unscrupulous",
+        "volatile",
+        "withdrawn"
+      ],
+      "examples": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "blunt",
+      "definition": "Direct, even when the truth may hurt.",
+      "example": "To be blunt, I think that what he did was cowardly and pathetic.",
+      "note": "Context-dependent; not the same as merely brief.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "brash",
+      "definition": "Loud and too confident in an irritating way.",
+      "example": "That TV presenter is far too noisy and brash for my liking.",
+      "note": "Usually critical.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "calculating",
+      "definition": "Planning cleverly for personal gain without concern for others.",
+      "example": "Percy is disliked by most of his colleagues because of his sly and calculating ways of getting what he wants.",
+      "note": "Usually critical.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "callous",
+      "definition": "Showing little concern for other people’s pain.",
+      "example": "His callous disregard of her feelings upset her.",
+      "note": "Negative.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "cantankerous",
+      "definition": "Bad-tempered and inclined to argue.",
+      "example": "Paul is not an easy person to have as a friend, because he is so cantankerous.",
+      "note": "Negative.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "cheerful",
+      "definition": "Happy and positive in mood.",
+      "example": "Why are you so cheerful today?",
+      "note": "Positive.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "curt",
+      "definition": "So brief and abrupt that it sounds rude.",
+      "example": "I knew from his curt tone that he was angry.",
+      "note": "Negative.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "fickle",
+      "definition": "Changing loyalties or preferences too easily.",
+      "example": "How can you have trusted someone as fickle as Joan?",
+      "note": "Negative.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "inquisitive",
+      "definition": "Eager to learn, or too curious about private matters.",
+      "example": "She was nervous. The man in front of her was being unusually inquisitive. / He is a very inquisitive child. He's going to love school.",
+      "note": "Positive or negative, depending on context.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "meticulous",
+      "definition": "Extremely careful about small details.",
+      "example": "Mother was always meticulous about her appearance.",
+      "note": "Often approving; can imply excessive care.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "persistent",
+      "definition": "Continuing despite difficulty or opposition.",
+      "example": "The customer was most persistent and refused to speak to anyone but the manager.",
+      "note": "Can be positive or negative.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "reckless",
+      "definition": "Taking risks without considering the danger.",
+      "example": "That was a very reckless thing to do. Do you realise you put your own life in danger?",
+      "note": "Negative; also describes actions.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "ruthless",
+      "definition": "Prepared to act without mercy to achieve a goal.",
+      "example": "The dictator was ruthless in silencing opposition and had the mass media strictly censored.",
+      "note": "Negative; also describes actions.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "squeamish",
+      "definition": "Easily upset by blood or other unpleasant sights.",
+      "example": "This horror film is not for people who are squeamish.",
+      "note": "Context-dependent.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "sullen",
+      "definition": "Silent, gloomy and bad-tempered.",
+      "example": "Rob sat in his room, in one of his sullen moods again.",
+      "note": "Negative.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "unscrupulous",
+      "definition": "Willing to act dishonestly or immorally for gain.",
+      "example": "He's probably the most unscrupulous businessman I've ever met. He'd do anything to make a profit.",
+      "note": "Negative.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "volatile",
+      "definition": "Likely to become angry suddenly.",
+      "example": "We need someone who is calm, patient and level-headed. Joe is far too volatile.",
+      "note": "Negative in descriptions of temperament.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "withdrawn",
+      "definition": "Quiet and unwilling to interact with others.",
+      "example": "Katy is so withdrawn and introverted that you can hardly get a word out of her.",
+      "note": "A description, not a diagnosis.",
+      "sourcePage": 4,
+      "exampleSource": "Supplied document: lesson page"
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "book-1",
+      "title": "Exercise 1 · Character sketches",
+      "instruction": "Read the text and decide whether each statement is true or false.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Scarlet has strong moral scruples.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "Her pursuit has no moral limits.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "referenceTerms": []
+        },
+        {
+          "type": "choice",
+          "prompt": "Scarlet is calculating.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "She carefully plans how to get power.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "referenceTerms": [
+            "calculating"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is ruthless.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He shows no mercy.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "referenceTerms": [
+            "ruthless"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is squeamish.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "Violence does not upset him.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "referenceTerms": [
+            "squeamish"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is very thorough and is careful that mistakes are never made.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He pays close attention to details.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "referenceTerms": []
+        },
+        {
+          "type": "choice",
+          "prompt": "Vance is fickle.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He is loyal to Scarlet.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "referenceTerms": [
+            "fickle"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "D'Avila loses his temper easily.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He becomes angry quickly.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-7",
+          "bookNumber": "7",
+          "referenceTerms": []
+        },
+        {
+          "type": "choice",
+          "prompt": "D’Avila is brash.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "His manner is loud and showy.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-8",
+          "bookNumber": "8",
+          "referenceTerms": [
+            "brash"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Jansen is withdrawn.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He avoids company.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-9",
+          "bookNumber": "9",
+          "referenceTerms": [
+            "withdrawn"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Jansen is reckless.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He takes dangerous risks.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-10",
+          "bookNumber": "10",
+          "referenceTerms": [
+            "reckless"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Jansen is cheerful.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "The description suggests isolation and abruptness.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-11",
+          "bookNumber": "11",
+          "referenceTerms": [
+            "cheerful"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Bonomi is cantankerous.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He argues over small matters.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-12",
+          "bookNumber": "12",
+          "referenceTerms": [
+            "cantankerous"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Bonomi will not say what he thinks to avoid hurting somebody's feelings.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "He says exactly what he thinks.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-13",
+          "bookNumber": "13",
+          "referenceTerms": []
+        },
+        {
+          "type": "choice",
+          "prompt": "Laura Hyde is inquisitive.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "She is curious and investigates.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-14",
+          "bookNumber": "14",
+          "referenceTerms": [
+            "inquisitive"
+          ]
+        },
+        {
+          "type": "choice",
+          "prompt": "Laura Hyde gives up easily.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ],
+          "explanation": "She continues until she finds the truth.",
+          "hint": "Find the named character, then look for evidence of the trait.",
+          "id": "q-15",
+          "bookNumber": "15",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 5,
+      "passage": "Bob,\nCan you arrange a meeting with Joe Figgis? I think the three of us should get together. I've just received another script from him. It's terrible. I can't believe we are paying him to produce this kind of rubbish. Below is a copy of his character outlines, which should give you an idea of what the rest of the script is like.\n\nSCARLET\nKnown as the Black Widow, she is beautiful and sophisticated. She is also poison. Driven by money and power, she will do anything to get what she wants. She lets nothing stand in her way. Everything is for the taking. Immoral, heartless and utterly unfeeling.\n\nVANCE\nScarlet's right-hand man. Cold, cruel and callous. Steel blue eyes, steel cold heart. The man in black. A man of few words and no emotion, who shows no mercy. He is meticulous, efficient and dangerously loyal to Scarlet. He can neither understand nor tolerate weakness.\n\nD'AVILA\nAlso works for Scarlet. Built like a truck, he is loud-mouthed, flashy and swaggeringly arrogant. He drips gold. He likes to take risks in every area of his life. Violent and volatile.\n\nJANSEN\nA rugged, handsome cop who is no longer the guy every cop wants for a partner. He keeps himself to himself, is curt and sullen. He doesn't seem to value his life anymore and often takes outrageous risks in his quest to discover the true identity of the Black Widow.\n\nBONOMI\nThirty years on the force. A big man. A blunt man. He has seen it all. Only truly happy when he is shouting. He will argue for argument's sake. Known as Captain Outburst, he is in fact fiercely protective of his men. The booming voice behind the door.\n\nLAURA HYDE\nYoung, blonde and beautiful. A crime reporter with the LA Mercury. Curious, and at times foolhardy. Always on the lookout for a ground-breaking story. Obsessed by the Black Widow, who is responsible for the disappearance of her brother. She will not give up until she finds the truth about the Black Widow and her story.\n\nSee what I mean? We must sort this out. Is 10 o'clock okay? Fax me to confirm.\nTony.",
+      "passageTitle": "The character outlines (document pp. 4–5)"
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "AV-001-2.mp3 is a filename-based suggestion only. Confirm the recording before assigning it. The supplied PDF has no transcript or listening answer key.",
+    "activities": [
+      {
+        "id": "speakers",
+        "title": "Exercise 2a · Identify the speaker",
+        "instruction": "Listen to the five extracts. Match each extract to a profession. Three options are unused.",
+        "options": [
+          "photographer",
+          "stuntman",
+          "film director",
+          "librarian",
+          "book dealer",
+          "accountant",
+          "antiques dealer",
+          "physician"
+        ],
+        "extracts": 5,
+        "answerKey": null
+      },
+      {
+        "id": "traits",
+        "title": "Exercise 2b · Identify the adjective",
+        "instruction": "Listen again. Choose the adjective that fits each speaker. Three options are unused.",
+        "options": [
+          "reckless",
+          "meticulous",
+          "blunt",
+          "withdrawn",
+          "cantankerous",
+          "squeamish",
+          "persistent",
+          "unscrupulous"
+        ],
+        "extracts": 5,
+        "answerKey": null
+      }
+    ],
+    "suggestedTrack": "AV-001-2.mp3"
+  },
+  "contentVersion": 2,
+  "label": "1"
+}

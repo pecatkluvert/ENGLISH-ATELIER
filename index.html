@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#182b32">
+  <meta name="description" content="A thoughtful space to learn advanced English: lessons, vocabulary, interactive practice and listening.">
+  <title>English Atelier — A little practice, a richer vocabulary</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Main navigation">
+      <a class="brand" href="#/" aria-label="English Atelier home"><span class="brand-mark">a<span>·</span></span><span>english<span>atelier</span></span></a>
+      <p class="sidebar-kicker">YOUR LEARNING SPACE</p>
+      <nav id="primary-nav">
+        <a href="#/" data-nav="home"><span class="nav-icon">◫</span> My workspace</a>
+        <a href="#/units" data-nav="units"><span class="nav-icon">▤</span> All units <span class="nav-count" id="unit-count">116</span></a>
+        <a href="#/saved" data-nav="saved"><span class="nav-icon">☆</span> Saved vocabulary</a>
+        <a href="#/review" data-nav="review"><span class="nav-icon">↺</span> Review mistakes <span id="review-count" class="nav-count">0</span></a>
+      </nav>
+      <div class="sidebar-units"><button class="unit-finder" type="button" data-switcher-trigger>⌕ Find a unit <kbd>Ctrl K</kbd></button><form id="unit-jump-form" class="unit-jump"><label for="unit-jump">Jump to unit</label><div><input id="unit-jump" type="text" placeholder="1–116 or 60b" maxlength="8" autocomplete="off"><button type="submit" aria-label="Open unit by number">→</button></div></form><p class="sidebar-kicker">RECENT & AVAILABLE</p><nav id="unit-nav" aria-label="Units"></nav></div>
+      <div class="sidebar-bottom"><div class="tiny-book" aria-hidden="true">Aa</div><p>Small steps.<br><strong>Lasting progress.</strong></p><a href="#/settings" data-nav="settings"><span aria-hidden="true">⚙</span> Progress & settings</a></div>
+    </aside>
+    <div class="main-shell">
+      <header class="topbar"><div class="breadcrumb" id="breadcrumb">Your workspace</div><form id="global-search" role="search"><label class="sr-only" for="search">Search vocabulary or units</label><span aria-hidden="true">⌕</span><input id="search" name="q" type="search" placeholder="Find a word or a unit…" autocomplete="off"><kbd>/</kbd></form><button class="header-unit-finder" type="button" data-switcher-trigger>Find a unit <span aria-hidden="true">⌄</span></button><span class="avatar" title="Your local learning space" aria-label="Personal learning space">You</span></header>
+      <main id="main" tabindex="-1"><div class="loading"><span class="eyebrow">ENGLISH ATELIER</span><h1>Preparing your learning space…</h1></div></main>
+      <footer>Made for a curious mind. <a href="#/settings">Progress & settings</a><span>Learn a little, every day.</span></footer>
+    </div>
+  </div>
+  <dialog id="unit-switcher" aria-labelledby="switcher-title"><div class="switcher-head"><div><span class="eyebrow">COURSE EXPLORER</span><h2 id="switcher-title">Where would you like to go?</h2></div><button id="close-switcher" class="icon-button" aria-label="Close unit finder">×</button></div><label class="sr-only" for="switcher-query">Search unit number or title</label><input id="switcher-query" class="input" type="search" placeholder="Unit number, 60a, or topic…" autocomplete="off"><p id="switcher-count" role="status" class="small muted"></p><div id="switcher-results"></div></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+  <noscript><p class="noscript">Please enable JavaScript to use the lessons and interactive exercises.</p></noscript>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

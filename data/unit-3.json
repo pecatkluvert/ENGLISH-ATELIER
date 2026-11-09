@@ -1,0 +1,868 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-3",
+  "number": 3,
+  "title": "Adjectives III (Word formation)",
+  "shortTitle": "Word formation",
+  "description": "Use prefixes, suffixes and sentence clues to form the right adjective.",
+  "level": "Advanced",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Build opposites with negative prefixes",
+    "Form adjectives from related words",
+    "Use meaning and grammar to choose the form"
+  ],
+  "source": {
+    "title": "Advanced Grammar & Vocabulary — Express Publishing",
+    "unit": 3,
+    "pages": [
+      8,
+      9
+    ],
+    "pdf": "sources/unit-3.pdf",
+    "note": "Lesson vocabulary, examples and written tasks follow the supplied pages. Definitions are condensed for readability; spacing and obvious scan errors are corrected. Hints, explanations and model answers are study aids, not a publisher answer key."
+  },
+  "lessons": [
+    {
+      "title": "Adjectives, related nouns and opposites",
+      "body": "The document gives adjectives, meanings, related noun forms and opposites. Study the complete word family alongside the original example: accessible/accessibility/inaccessible, accurate/accuracy/inaccurate, and coherent/coherence/incoherent.",
+      "terms": [
+        "accessible",
+        "accurate",
+        "apologetic",
+        "arguable",
+        "argumentative",
+        "coherent",
+        "decisive",
+        "discreet",
+        "excessive"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Negative forms and word families",
+      "body": "Learn each negative prefix with its word. The exercise supplies un-, dis-, ir-, il-, ab-, im- and in-. The original examples below also show several opposites in use.",
+      "terms": [
+        "knowledgeable",
+        "legible",
+        "logical",
+        "loyal",
+        "normal",
+        "obedient",
+        "official",
+        "orthodox",
+        "plausible"
+      ],
+      "examples": []
+    },
+    {
+      "title": "Form the adjective that fits",
+      "body": "Exercise 2 supplies these suffixes: -ish, -ial, -ed, -able, -ive, -less, -ible and -ic. Check whether the sentence requires a positive or negative meaning. Preferential treatment, practical ideas and responsible behaviour are among the document’s combinations.",
+      "terms": [
+        "polite",
+        "practical",
+        "precise",
+        "preferential",
+        "replaceable",
+        "responsible",
+        "ripe",
+        "scrupulous"
+      ],
+      "examples": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "accessible",
+      "definition": "Easy to reach, enter or use.",
+      "example": "The northern part of the park is virtually inaccessible unless you have a four-wheel drive.",
+      "note": "accessibility; opposite: inaccessible.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "accurate",
+      "definition": "Correct and precise.",
+      "example": "It is not always easy to give accurate measurements for the strength of an earthquake.",
+      "note": "accuracy; opposite: inaccurate.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "apologetic",
+      "definition": "Showing that you are sorry.",
+      "example": "Audrey was extremely apologetic for having kept us waiting so long.",
+      "note": "Related to apologise/apologize and apology.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "arguable",
+      "definition": "Open to debate, or possible to argue.",
+      "example": "Whether or not this is the way forward is arguable. / It is arguable that education leads to higher income.",
+      "note": "Different from argumentative.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "argumentative",
+      "definition": "Inclined to disagree and argue.",
+      "example": "I've never met anyone more argumentative than Jenny; she will tell you that black is white.",
+      "note": "Describes behaviour.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "coherent",
+      "definition": "Clear, logical and well organised.",
+      "example": "This is a clear and coherent explanation of the workings of the internal combustion engine.",
+      "note": "coherence; opposite: incoherent.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "decisive",
+      "definition": "Able to make firm decisions promptly.",
+      "example": "Winston Churchill's decisive policies rallied the country round him at a difficult and dangerous time.",
+      "note": "decisiveness; opposite: indecisive.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "discreet",
+      "definition": "Careful not to embarrass others or reveal private information.",
+      "example": "Try to be as discreet as possible as he's very sensitive and easily upset.",
+      "note": "discretion; opposite: indiscreet. Not discrete (separate).",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "excessive",
+      "definition": "Greater than necessary or reasonable.",
+      "example": "Don't you think that a 25% price increase is excessive, even allowing for inflation?",
+      "note": "From excess; excessive exposure.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "knowledgeable",
+      "definition": "Well informed about a subject.",
+      "example": "Malcolm is knowledgeable about computer hardware and will tell you everything you want to know.",
+      "note": "From knowledge.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "legible",
+      "definition": "Clear enough to read.",
+      "example": "I can't possibly read this; her handwriting is illegible.",
+      "note": "legibility; opposite: illegible.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "logical",
+      "definition": "Reasonable and following clear reasoning.",
+      "example": "There is no logical explanation for his behaviour.",
+      "note": "logic; opposite: illogical.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "loyal",
+      "definition": "Faithful and supportive.",
+      "example": "A loyal friend will stand by you through good and bad times.",
+      "note": "loyalty; opposite: disloyal.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "normal",
+      "definition": "Usual or expected.",
+      "example": "It's not abnormal for boys of his age to want to join the army.",
+      "note": "normality; opposite: abnormal.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "obedient",
+      "definition": "Doing what you are told to do.",
+      "example": "Jo is a very disobedient child and refuses to do what she is told.",
+      "note": "obedience; opposite: disobedient.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "official",
+      "definition": "Approved by an authority.",
+      "example": "This is the only official biography of the author currently on the market.",
+      "note": "opposite: unofficial.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "orthodox",
+      "definition": "Following accepted beliefs or methods.",
+      "example": "He always gets outstanding results, despite his unorthodox teaching methods.",
+      "note": "orthodoxy; opposite: unorthodox.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "plausible",
+      "definition": "Believable or reasonably likely to be true.",
+      "example": "The special effects in the film were excellent but I didn't think the plot was very plausible.",
+      "note": "plausibility; opposite: implausible.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "polite",
+      "definition": "Showing good manners.",
+      "example": "Timothy was a polite young man with impeccable manners.",
+      "note": "politeness; opposite: impolite.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "practical",
+      "definition": "Sensible and likely to work in real situations.",
+      "example": "Banning all vehicles from the city centre is a lovely idea but I don't think it's practical at all.",
+      "note": "practicality; opposite: impractical.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "precise",
+      "definition": "Exact and carefully specified.",
+      "example": "This machine has brought an unprecedented degree of precision to the business of dating trees.",
+      "note": "precision; opposite: imprecise.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "preferential",
+      "definition": "Giving someone an advantage over others.",
+      "example": "Harry gets preferential treatment at work, with an office all to himself, just because he is the boss's nephew.",
+      "note": "From prefer; common: preferential treatment.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "replaceable",
+      "definition": "Able to be replaced.",
+      "example": "Many of the paintings lost in the fire were irreplaceable old masters.",
+      "note": "opposite: irreplaceable; not identical to disposable.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "responsible",
+      "definition": "Behaving sensibly and reliably.",
+      "example": "Sharon is the perfect employee; hardworking and responsible.",
+      "note": "responsibility; opposite: irresponsible.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "ripe",
+      "definition": "Fully developed and ready to eat.",
+      "example": "I'm not buying these tomatoes; they're unripe.",
+      "note": "ripeness; opposite: unripe.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    },
+    {
+      "term": "scrupulous",
+      "definition": "Very careful to act honestly and fairly.",
+      "example": "Socrates was known for his scrupulous adherence to the truth and his refusal to compromise.",
+      "note": "scruples; opposite: unscrupulous.",
+      "sourcePage": 8,
+      "exampleSource": "Supplied document: lesson page"
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "book-1",
+      "title": "Exercise 1 · Opposites",
+      "instruction": "Make the opposites by adding a prefix. Type the whole adjective. Prefix bank: un-, dis-, ir-, il-, ab-, im-, in-.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Write the opposite of plausible.",
+          "answer": [
+            "implausible"
+          ],
+          "explanation": "plausible → implausible. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "plausible"
+          ],
+          "id": "q-1",
+          "bookNumber": "1"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of polite.",
+          "answer": [
+            "impolite"
+          ],
+          "explanation": "polite → impolite. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "polite"
+          ],
+          "id": "q-2",
+          "bookNumber": "2"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of scrupulous.",
+          "answer": [
+            "unscrupulous"
+          ],
+          "explanation": "scrupulous → unscrupulous. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "scrupulous"
+          ],
+          "id": "q-3",
+          "bookNumber": "3"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of ripe.",
+          "answer": [
+            "unripe"
+          ],
+          "explanation": "ripe → unripe. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "ripe"
+          ],
+          "id": "q-4",
+          "bookNumber": "4"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of decisive.",
+          "answer": [
+            "indecisive"
+          ],
+          "explanation": "decisive → indecisive. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "decisive"
+          ],
+          "id": "q-5",
+          "bookNumber": "5"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of accessible.",
+          "answer": [
+            "inaccessible"
+          ],
+          "explanation": "accessible → inaccessible. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "accessible"
+          ],
+          "id": "q-6",
+          "bookNumber": "6"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of normal.",
+          "answer": [
+            "abnormal"
+          ],
+          "explanation": "normal → abnormal. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "normal"
+          ],
+          "id": "q-7",
+          "bookNumber": "7"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of orthodox.",
+          "answer": [
+            "unorthodox"
+          ],
+          "explanation": "orthodox → unorthodox. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "orthodox"
+          ],
+          "id": "q-8",
+          "bookNumber": "8"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of logical.",
+          "answer": [
+            "illogical"
+          ],
+          "explanation": "logical → illogical. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "logical"
+          ],
+          "id": "q-9",
+          "bookNumber": "9"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of replaceable.",
+          "answer": [
+            "irreplaceable"
+          ],
+          "explanation": "replaceable → irreplaceable. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "replaceable"
+          ],
+          "id": "q-10",
+          "bookNumber": "10"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of practical.",
+          "answer": [
+            "impractical"
+          ],
+          "explanation": "practical → impractical. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "practical"
+          ],
+          "id": "q-11",
+          "bookNumber": "11"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of accurate.",
+          "answer": [
+            "inaccurate"
+          ],
+          "explanation": "accurate → inaccurate. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "accurate"
+          ],
+          "id": "q-12",
+          "bookNumber": "12"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of discreet.",
+          "answer": [
+            "indiscreet"
+          ],
+          "explanation": "discreet → indiscreet. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "discreet"
+          ],
+          "id": "q-13",
+          "bookNumber": "13"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of obedient.",
+          "answer": [
+            "disobedient"
+          ],
+          "explanation": "obedient → disobedient. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "obedient"
+          ],
+          "id": "q-14",
+          "bookNumber": "14"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of loyal.",
+          "answer": [
+            "disloyal"
+          ],
+          "explanation": "loyal → disloyal. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "loyal"
+          ],
+          "id": "q-15",
+          "bookNumber": "15"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of precise.",
+          "answer": [
+            "imprecise"
+          ],
+          "explanation": "precise → imprecise. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "precise"
+          ],
+          "id": "q-16",
+          "bookNumber": "16"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of coherent.",
+          "answer": [
+            "incoherent"
+          ],
+          "explanation": "coherent → incoherent. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "coherent"
+          ],
+          "id": "q-17",
+          "bookNumber": "17"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of legible.",
+          "answer": [
+            "illegible"
+          ],
+          "explanation": "legible → illegible. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "legible"
+          ],
+          "id": "q-18",
+          "bookNumber": "18"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of responsible.",
+          "answer": [
+            "irresponsible"
+          ],
+          "explanation": "responsible → irresponsible. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "responsible"
+          ],
+          "id": "q-19",
+          "bookNumber": "19"
+        },
+        {
+          "type": "text",
+          "prompt": "Write the opposite of official.",
+          "answer": [
+            "unofficial"
+          ],
+          "explanation": "official → unofficial. Learn the prefix with the complete word.",
+          "hint": "Choose the negative prefix, then keep the spelling of the full adjective.",
+          "referenceTerms": [
+            "official"
+          ],
+          "id": "q-20",
+          "bookNumber": "20"
+        }
+      ],
+      "sourcePage": 9,
+      "support": "Prefix bank: un-, dis-, ir-, il-, ab-, im-, in-. Type the complete word."
+    },
+    {
+      "id": "book-2",
+      "title": "Exercise 2 · Form an adjective",
+      "instruction": "Use the capitalised word to form an adjective. You may need a prefix or a suffix.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "I may be related to the Managing Director, but believe me, I don't get ___ treatment. (PREFER)",
+          "answer": [
+            "preferential"
+          ],
+          "explanation": "Suggested form: preferential. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “p”.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "You are 25 years old and you are acting like a spoilt schoolboy. Stop being so ___. (CHILD)",
+          "answer": [
+            "childish"
+          ],
+          "explanation": "Suggested form: childish. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “c”.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "Ben hated it, but I thought it was a very interesting and ___ programme. (INFORMATION)",
+          "answer": [
+            "informative"
+          ],
+          "explanation": "Suggested form: informative. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “i”.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "This is the worst ___ crisis that this country has had to face in over 100 years. (ECONOMY)",
+          "answer": [
+            "economic"
+          ],
+          "explanation": "Suggested form: economic. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “e”.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "Why are you being so ___? You're disagreeing with everything I say. (ARGUE)",
+          "answer": [
+            "argumentative"
+          ],
+          "explanation": "Suggested form: argumentative. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “a”.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "Appearances can be ___. He might look aggressive but really he is as gentle as a lamb. (DECEIVE)",
+          "answer": [
+            "deceptive",
+            "deceiving"
+          ],
+          "explanation": "Suggested form: deceptive. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “d”.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "___ with the money he was receiving, Sid decided to leave the company. (SATISFY)",
+          "answer": [
+            "dissatisfied"
+          ],
+          "explanation": "Suggested form: dissatisfied. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “d”.",
+          "id": "q-7",
+          "bookNumber": "7",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "For some ___ reason, she gave up her job, sold everything she owned and went to live on a desert island. (EXPLAIN)",
+          "answer": [
+            "inexplicable",
+            "unexplained",
+            "unexplainable"
+          ],
+          "explanation": "Suggested form: inexplicable. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “i”.",
+          "id": "q-8",
+          "bookNumber": "8",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "All the judges gave her ten out of ten. She had given a ___ performance. (FLAW)",
+          "answer": [
+            "flawless"
+          ],
+          "explanation": "Suggested form: flawless. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “f”.",
+          "id": "q-9",
+          "bookNumber": "9",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "He looked terrible. Too much work and too many ___ nights. He had to get away. (SLEEP)",
+          "answer": [
+            "sleepless"
+          ],
+          "explanation": "Suggested form: sleepless. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “s”.",
+          "id": "q-10",
+          "bookNumber": "10",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "He can be very ___ when he wants to. He can talk you into anything. (PERSUADE)",
+          "answer": [
+            "persuasive"
+          ],
+          "explanation": "Suggested form: persuasive. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “p”.",
+          "id": "q-11",
+          "bookNumber": "11",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "The best man was very embarrassed and very ___ about forgetting the time that the wedding was to take place. (APOLOGISE)",
+          "answer": [
+            "apologetic"
+          ],
+          "explanation": "Suggested form: apologetic. Read it in the whole sentence to check the meaning.",
+          "hint": "The answer starts with “a”.",
+          "id": "q-12",
+          "bookNumber": "12",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 9,
+      "support": "Suffix bank from the document: -ish, -ial, -ed, -able, -ive, -less, -ible, -ic."
+    },
+    {
+      "id": "book-3",
+      "title": "Exercise 3 · Education passage",
+      "instruction": "Read the complete passage. Use the capitalised word to form the adjective for each numbered gap. Gap 0 is the example: educational.",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "In a ___ western economy… (COMPETE)",
+          "answer": [
+            "competitive"
+          ],
+          "explanation": "The adjective that fits this part of the passage is competitive.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-1",
+          "bookNumber": "1",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…they need to be well-informed and ___. (KNOW)",
+          "answer": [
+            "knowledgeable"
+          ],
+          "explanation": "The adjective that fits this part of the passage is knowledgeable.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-2",
+          "bookNumber": "2",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…it is ___ that the task…cannot be carried out… (ARGUE)",
+          "answer": [
+            "arguable"
+          ],
+          "explanation": "The adjective that fits this part of the passage is arguable.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-3",
+          "bookNumber": "3",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…within the ___ classroom framework… (TRADITION)",
+          "answer": [
+            "traditional"
+          ],
+          "explanation": "The adjective that fits this part of the passage is traditional.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-4",
+          "bookNumber": "4",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…acquiring a proper education in this way is simply ___. (POSSIBLE)",
+          "answer": [
+            "impossible"
+          ],
+          "explanation": "The adjective that fits this part of the passage is impossible.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-5",
+          "bookNumber": "5",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…___ exposure to computers… (EXCEED)",
+          "answer": [
+            "excessive"
+          ],
+          "explanation": "The adjective that fits this part of the passage is excessive.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-6",
+          "bookNumber": "6",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…harmful rather than ___ to children… (BENEFIT)",
+          "answer": [
+            "beneficial"
+          ],
+          "explanation": "The adjective that fits this part of the passage is beneficial.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-7",
+          "bookNumber": "7",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…it is more ___ for education to take place in the classroom. (PRODUCE)",
+          "answer": [
+            "productive"
+          ],
+          "explanation": "The adjective that fits this part of the passage is productive.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-8",
+          "bookNumber": "8",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…computers seem to hold a(n) ___ appeal… (RESIST)",
+          "answer": [
+            "irresistible"
+          ],
+          "explanation": "The adjective that fits this part of the passage is irresistible.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-9",
+          "bookNumber": "9",
+          "referenceTerms": []
+        },
+        {
+          "type": "text",
+          "prompt": "…it is ___ for children to have a person…for a teacher. (PREFER)",
+          "answer": [
+            "preferable"
+          ],
+          "explanation": "The adjective that fits this part of the passage is preferable.",
+          "hint": "Read the surrounding argument as well as the words next to the gap.",
+          "id": "q-10",
+          "bookNumber": "10",
+          "referenceTerms": []
+        }
+      ],
+      "sourcePage": 9,
+      "passage": "What kind of 0) educational experience and background should we be giving our children? In a 1) ___ western economy, they need to be well-informed and 2) ___. In a complex ever-changing modern world, it is 3) ___ that the task of preparing the next generation cannot be carried out within the 4) ___ classroom framework, because acquiring a proper education in this way is simply 5) ___. This is where computer-aided learning steps in, providing children with the skills that they will need in tomorrow's world, in a one-to-one learner-centred environment. There are those who claim, however, that 6) ___ exposure to computers may prove to be harmful rather than 7) ___ to children and that it is more 8) ___ for education to take place in the classroom. They say that, although computers seem to hold a(n) 9) ___ appeal for some people, particularly young children, it is 10) ___ for children to have a person, rather than a machine, for a teacher.",
+      "passageTitle": "Education passage (Exercise 3)"
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose a track in Listening. Track-to-unit mappings have not been verified.",
+    "activities": []
+  },
+  "contentVersion": 2,
+  "label": "3"
+}

@@ -1,0 +1,86 @@
+{
+  "$schema": "./unit.schema.json",
+  "schemaVersion": 1,
+  "id": "unit-6",
+  "number": 6,
+  "title": "Your next unit",
+  "shortTitle": "New discoveries",
+  "description": "Replace this sample with the topic and learning goal for Unit 6.",
+  "level": "Advanced",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Replace this with a concrete learning objective"
+  ],
+  "source": {
+    "title": "Your source or original material",
+    "unit": 6,
+    "note": "Replace this with the supplied source information. Replace the demonstration content before registering this as a book unit.",
+    "pages": [],
+    "pdf": null
+  },
+  "lessons": [
+    {
+      "title": "Choose a precise word",
+      "body": "Replace this sample lesson with your own explanation. A resilient person recovers after difficulty.",
+      "examples": [
+        "She remained resilient after the setback."
+      ],
+      "terms": [
+        "resilient"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "term": "resilient",
+      "definition": "Able to recover after difficulty.",
+      "example": "The resilient team tried again.",
+      "note": "Noun: resilience."
+    }
+  ],
+  "exerciseGroups": [
+    {
+      "id": "meaning",
+      "title": "Understand the meaning",
+      "instruction": "Choose the best answer.",
+      "questions": [
+        {
+          "id": "meaning-1",
+          "type": "choice",
+          "prompt": "Which word describes someone who recovers after difficulty?",
+          "options": [
+            "reckless",
+            "resilient",
+            "sullen"
+          ],
+          "answer": "resilient",
+          "explanation": "Resilient means able to recover after difficulty."
+        }
+      ]
+    },
+    {
+      "id": "form",
+      "title": "Build the word",
+      "instruction": "Type the adjective.",
+      "questions": [
+        {
+          "id": "form-1",
+          "type": "text",
+          "prompt": "The team recovered well and stayed ___. (RESILIENCE)",
+          "answer": [
+            "resilient"
+          ],
+          "hint": "The adjective ends in -ent.",
+          "explanation": "Resilience is the noun; resilient is the adjective."
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "track": null,
+    "note": "Choose the verified recording for this unit, if one is available.",
+    "activities": []
+  },
+  "label": "6",
+  "contentVersion": 2
+}

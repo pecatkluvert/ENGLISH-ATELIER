@@ -1,0 +1,41 @@
+ENGLISH ATELIER v2 — DOCUMENT-BASED STUDY, 116-UNIT NAVIGATION
+
+1. Extract the ZIP.
+2. Upload its CONTENTS to your GitHub repository using Add file > Upload files.
+   index.html must be directly at the repository root.
+3. Upload your MP3s to audio/, beside index.html and data/.
+   Example: audio/AV-001-2.mp3
+4. Repository Settings > Pages > Deploy from a branch > main > / (root).
+5. Open the website URL after GitHub finishes publishing.
+
+WHAT IS NEW
+- Units 1–5 contain the supplied documents' vocabulary, examples and tasks.
+- Original PDFs are included under sources/ for comparison.
+- Word banks, hints, lesson references, question jumps and skipping help users answer.
+- Open writing compares with models instead of receiving an automatic wrong mark.
+- The searchable directory covers unit numbers 1–116, with separate 60a/60b sections.
+- Units without supplied material are clearly labelled "Material not added yet".
+- Unit JSON content loads only when needed.
+
+ADDING UNIT 6 OR LATER
+Copy unit-template.json to data/unit-6.json, replace demonstration text with
+source-based material, set its ID/number/label, and add this entry to the
+existing units array in data/units.json:
+  {"id": "unit-6", "file": "unit-6.json"}
+Change the copied template's $schema reference to ../unit.schema.json.
+No app-code change is required. Full instructions and optional indexing tools
+are in README.md.
+
+AUDIO
+Keep original names exactly, including capital letters and hyphens.
+All 17 known filenames are in data/audio-library.json.
+No recordings are included. Select each unit's verified track in Listening.
+Unit 1 offers AV-001-2.mp3 as an unverified filename-based suggestion.
+Listening answer sheets remain ungraded until a verified key is added.
+
+UPDATING FROM v1
+Upload all new files, including data/catalog.json and sources/.
+Keep your existing MP3s. Saved words and audio/listening data are retained.
+Old generated-question scores do not count toward the new book exercises.
+
+The app uses plain HTML, CSS and JavaScript. No build or installation is needed.
